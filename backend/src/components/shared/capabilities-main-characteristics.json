@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_shared_capabilities_main_characteristics",
+  "info": {
+    "displayName": "Capabilities Main Characteristics",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    },
+    "Title": {
+      "type": "string"
+    },
+    "MainText": {
+      "type": "text"
+    },
+    "ImageLeftAlignment": {
+      "type": "boolean",
+      "default": true,
+      "required": true
+    }
+  }
+}
