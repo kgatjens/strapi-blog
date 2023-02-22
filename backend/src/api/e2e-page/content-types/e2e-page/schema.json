@@ -1,0 +1,19 @@
+{
+  "kind": "singleType",
+  "collectionName": "e2e_pages",
+  "info": {
+    "singularName": "e2e-page",
+    "pluralName": "e2e-pages",
+    "displayName": "E2E Page"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "MainHeaderText": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
