@@ -27,6 +27,15 @@ const config = {
     // 'zh-Hans',
     // 'zh',
   ],
+  theme: {
+    colors: {
+      primary100: '#ccc',
+      primary200: '#c9c9c9',
+      primary500: '#999',
+      primary600: '#000',
+      primary700: '#000',
+    },
+  },
 };
 
 const bootstrap = (app) => {
