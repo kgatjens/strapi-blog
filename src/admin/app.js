@@ -1,3 +1,7 @@
+//import favicon from '../extensions/logo.png'
+// import logo from './extensions/logo.png'
+
+
 const config = {
   locales: [
     // 'ar',
@@ -34,8 +38,16 @@ const config = {
       primary500: '#999',
       primary600: '#000',
       primary700: '#000',
+      buttonPrimary600: '#000',
     },
+   
   },
+  // menu: {
+  //   logo
+  // },
+  // head: {
+  //   favicon
+  // },
 };
 
 const bootstrap = (app) => {
