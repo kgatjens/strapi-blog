@@ -1,5 +1,5 @@
 //import favicon from '../extensions/logo.png'
-// import logo from './extensions/logo.png'
+ import logo from './extensions/favicon.ico'
 
 
 const config = {
@@ -45,9 +45,9 @@ const config = {
   // menu: {
   //   logo
   // },
-  // head: {
-  //   favicon
-  // },
+  head: {
+    logo
+  },
 };
 
 const bootstrap = (app) => {
