@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_sections_key_words",
+  "info": {
+    "displayName": "KeyWords",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "HeroKeyWord": {
+      "type": "string"
+    }
+  }
+}
