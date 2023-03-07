@@ -39,8 +39,19 @@ const config = {
       primary600: '#000',
       primary700: '#000',
       buttonPrimary600: '#000',
+      buttonPrimary200: '#000',
+      buttonPrimary500: '#000',
     },
    
+  },
+  translations: {
+    en: {
+      "app.components.LeftMenu.navbrand.title": "Gorilla Logic",
+      "app.components.LeftMenu.navbrand.workplace": "Dashboard",
+      "app.components.Homepage.welcome": "GL",
+      "Auth.form.welcome.title": "Welcome to Gorilla Logic",
+        "Auth.form.welcome.subtitle": "Log in to your App",
+    },
   },
   // menu: {
   //   logo
